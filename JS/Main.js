@@ -12,7 +12,7 @@ import {
 // #region Variables
 
 const baseURL = "https://api.openweathermap.org/data/2.5/";
-const apiKey = "ec0f4802bacb7d1afe289644c17f8660";
+const apiKey = "apikey";
 
 const searchBox = document.getElementById("searchBar");
 let city = document.getElementById("city");
